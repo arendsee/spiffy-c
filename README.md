@@ -47,7 +47,7 @@ languages I use. It would also be neat to make one for a general, multilinguagl
 
  [x] Write basic README
  [x] Add LICENSE
- [ ] Build the codebase
+ [x] Build the codebase
  [ ] Set of CLI interface
  [ ] Add simple CMake
  [ ] Add CTest
